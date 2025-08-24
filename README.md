@@ -1,2 +1,10 @@
 # CS-230
-This is for 2025 C-4 (Jun - Aug) at SNHU
+The Gaming Room client wanted to expand their existing Draw It or Lose It game, which was previously only available on Android, into a cross-platform application. Their requirements included ensuring that each game and team name was unique, supporting multiple players per team, allowing both single- and multi-team games, and limiting the system to a single instance of the game running in memory at any given time. They also needed support with environment setup and development streamlining.
+
+One area I performed particularly well in was the evaluations section of the documentation, where my instructor noted that I exceeded expectations. The structured design document template was especially helpful during development, as it allowed me to remain organized and focus on the necessary requirements without overdocumenting—something I tend to do when working without clear guidelines.
+
+If I were to revise my work, I would include pseudocode within the documentation. While I have often found pseudocode tedious, I now recognize its value for planning larger projects. Incorporating it would have provided additional clarity for both the team and stakeholders, offering insight into the complexity of the project and aligning skillsets to tasks more effectively.
+
+Interpreting the client’s needs and translating them into technical requirements was an area where I felt confident. I see this as a critical skill for consultants, acting as a bridge between the client’s vision and the technical execution. Failing to do so often leads to miscommunication, wasted effort, and dissatisfaction on both sides.
+
+My approach to software design relies heavily on research and careful planning. While this can be time-consuming, it reduces costly mistakes that arise from rushing in without fully understanding the scope. Breaking down the project into manageable sections and following Agile-inspired methods allows for iterative progress, easier testing, and smoother development. Looking ahead, I plan to continue refining this structured approach, ensuring thorough preparation while maintaining adaptability throughout the project lifecycle.
